@@ -4,20 +4,6 @@ An AI-powered chatbot built with **FastAPI**, **Google Gemini API**, and a moder
 
 Ultra Mind AI provides intelligent conversational responses using Google's Gemini model through a clean and responsive web interface.
 
----
-
-## 📸 Preview
-
-> Add screenshots of your chatbot here.
-
-### Home Screen
-![Home](screenshots/home.png)
-
-### Chat Interface
-![Chat](screenshots/chat.png)
-
----
-
 ## ✨ Features
 
 - 🤖 Powered by Google Gemini AI
