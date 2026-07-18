@@ -212,7 +212,7 @@ This project is licensed under the MIT License.
 Aspiring AI Engineer | Python Developer | FastAPI Enthusiast
 
 - GitHub: https://github.com/Debojitghosh-it
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: www.linkedin.com/in/debojit-ghosh-cse
 
 ---
 
