@@ -36,7 +36,7 @@ async function sendMessage() {
 
     try {
 
-        const response = await fetch("https://ai-powered-chatbot-tg9z.onrender.com/", {
+        const response = await fetch("https://ai-powered-chatbot-tg9z.onrender.com/chat", {
 
             method: "POST",
 
