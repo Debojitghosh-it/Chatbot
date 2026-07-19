@@ -36,7 +36,7 @@ async function sendMessage() {
 
     try {
 
-        const response = await fetch("http://127.0.0.1:8000/chat", {
+        const response = await fetch("https://ai-powered-chatbot-tg9z.onrender.com/", {
 
             method: "POST",
 
